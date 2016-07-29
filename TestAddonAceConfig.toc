@@ -1,0 +1,13 @@
+## Title: Test Addon |c2E0AFFFFAceConfig|r
+## Notes: A sample addon to demonstrate how to use AceConfig and AceDB to set and save options in your World of Warcraft Addon
+## Author: Hiketeia
+## X-License: MIT
+
+## Interface: 70000
+## Version: 7.0.3.1
+
+## DefaultState: disabled
+## SavedVariables: TestAddonAceConfigDB
+
+embeds.xml
+core.lua
